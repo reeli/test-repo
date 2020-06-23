@@ -1,0 +1,20 @@
+{
+  "name": "@reeli/test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"build\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reeli/test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reeli/test-repo/issues"
+  },
+  "homepage": "https://github.com/reeli/test-repo#readme"
+}
